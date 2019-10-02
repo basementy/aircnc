@@ -1,2 +1,2 @@
-# semana_omnistack
+# Semana Omnistack
 A repo for the Omnistack Week
