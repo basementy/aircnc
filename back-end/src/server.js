@@ -7,7 +7,7 @@ const routes = require('./routes')
 
 const app = express()
 
-mongoose.connect('mongodb+srv://omnistack:omnistack@omnistack-sysdr.mongodb.net/semana09?retryWrites=true&w=majority', {
+mongoose.connect('YOUR DB', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })
