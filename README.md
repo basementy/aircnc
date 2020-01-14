@@ -1,2 +1,2 @@
 # AirCnC
-A repo for the AirCnc project. Created by Rocketseat
+A repository for the Omnistack Week 10 project. Created by Rocketseat
